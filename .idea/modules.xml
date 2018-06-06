@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BaseRecyclerAdapter.iml" filepath="$PROJECT_DIR$/BaseRecyclerAdapter.iml" />
+      <module fileurl="file://D:\GitHub\BaseRecyclerAdapter2\BaseRecyclerAdapter.iml" filepath="D:\GitHub\BaseRecyclerAdapter2\BaseRecyclerAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseRecyclerAdapter2.iml" filepath="$PROJECT_DIR$/BaseRecyclerAdapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\GitHub\BaseRecyclerAdapter2\app\app.iml" filepath="D:\GitHub\BaseRecyclerAdapter2\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baserecycleradapterlibrary/baserecycleradapterlibrary.iml" filepath="$PROJECT_DIR$/baserecycleradapterlibrary/baserecycleradapterlibrary.iml" />
+      <module fileurl="file://D:\GitHub\BaseRecyclerAdapter2\baserecycleradapterlibrary\baserecycleradapterlibrary.iml" filepath="D:\GitHub\BaseRecyclerAdapter2\baserecycleradapterlibrary\baserecycleradapterlibrary.iml" />
     </modules>
   </component>
 </project>
